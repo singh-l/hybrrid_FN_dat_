@@ -6,7 +6,7 @@
 Author: Lovedeep Singh 
 
 <img align="left" width="200px"   src="https://github.com/singh-l/hybrrid_FN_dat_/blob/master/images_readme/fn_hybrid1.png" />
-<img align="left" width="200px"  src="https://github.com/singh-l/hybrrid_FN_dat_/blob/master/images_readme/fn_hybrid2.png" />
+<img align="left" width="220px"  src="https://github.com/singh-l/hybrrid_FN_dat_/blob/master/images_readme/fn_hybrid2.png" />
 </br>
 </br>
 </br>
