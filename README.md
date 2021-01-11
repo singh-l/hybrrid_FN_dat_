@@ -19,6 +19,7 @@ Author: Lovedeep Singh
 
 
 
-***Abstract***—Fake News Detection is an essential problem in the field of Natural Language Processing. The benefits of an effective solution in this area are manifold for the goodwill of society. On a surface level, it broadly matches with the general problem of text classification. Researchers have proposed various approaches to tackle fake news using simple as well as some complex techniques. In this paper, we try to make a comparison between the present Deep Learning techniques by representing the news instances in some vector space using a combination of common mathematical operations with available vector space representations. We do a number of experiments using various combinations and permutations. Finally, we conclude with a sound analysis of the results and evaluate the reasons for such results.
+**Abstract.** The concept of clustering is of primitive importance in the field of unsupervised learning. We have always required the need to categorize data with respect to some parameters. More or less, this can become quite challenging with the increasing amount of jargon, which requires expert domain knowledge, and with the increasing amount of data. Sometimes, we even do not possess enough knowledge about the data to divide it into categories. We simply do not possess past experiences to train a classification model for categorizing data. This paper present a comparative study on the techniques available for clustering text data using only text vectorization methods.
 </br>
-Proceedings published in [IEEE-Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+Proceedings published in [AISC-Springer](https://www.springer.com/series/11156)
+
