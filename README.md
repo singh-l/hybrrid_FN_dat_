@@ -19,7 +19,6 @@ Author: Lovedeep Singh
 
 
 
-**Abstract.** The concept of clustering is of primitive importance in the field of unsupervised learning. We have always required the need to categorize data with respect to some parameters. More or less, this can become quite challenging with the increasing amount of jargon, which requires expert domain knowledge, and with the increasing amount of data. Sometimes, we even do not possess enough knowledge about the data to divide it into categories. We simply do not possess past experiences to train a classification model for categorizing data. This paper present a comparative study on the techniques available for clustering text data using only text vectorization methods.
+**Abstract.** Fake News Detection has been a challenging problem in the field of Machine Learning. Researchers have approached it via several techniques using old Statistical Classification models and modern Deep Learning. Today, with the growing amount of data, developments in the field of NLP and ML, and an increase in the computation power at disposal, there are infinite permutations and combinations to approach this problem from a different perspective. In this paper, we try different methods to tackle Fake News, and try to build, and propose the possibilities of a Hybrid Ensemble combining the classical Machine Learning techniques with the modern Deep Learning Approaches.
 </br>
-Proceedings published in [AISC-Springer](https://www.springer.com/series/11156)
 
