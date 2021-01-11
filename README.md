@@ -5,9 +5,8 @@
 </br>
 Author: Lovedeep Singh 
 
-<img align="left" width="200px"   src="https://github.com/singh-l/FNDLVS/blob/master/images/vector.png" />
-<img align="left" width="200px"  src="https://github.com/singh-l/FNDLVS/blob/master/images/dl.png" />
-<img align="left" width="200px"  src="https://github.com/singh-l/FNDLVS/blob/master/images/fact-fake.png" />
+<img align="left" width="200px"   src="https://github.com/singh-l/hybrrid_FN_dat_/blob/master/images_readme/fn_hybrid1.png" />
+<img align="left" width="200px"  src="https://github.com/singh-l/hybrrid_FN_dat_/blob/master/images_readme/fn_hybrid2.png" />
 </br>
 </br>
 </br>
